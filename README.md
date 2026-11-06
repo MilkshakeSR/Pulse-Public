@@ -2,8 +2,11 @@
 
 A lightweight menu bar app that shows your Mac's CPU, memory, GPU, disk, network, battery and thermal status in real time.
 
-## Download
-Go to the **Releases** section on the right and download the latest `Pulse.dmg`.
+## ⬇️ Download
+
+[![Download Pulse](https://img.shields.io/badge/Download-Pulse.dmg-2ea44f?style=for-the-badge&logo=apple)](https://github.com/MilkshakeSR/Pulse-Public/releases/latest/download/Pulse.dmg)
+
+Or see all versions on the [Releases page](https://github.com/MilkshakeSR/Pulse-Public/releases).
 
 ## Install
 1. Open `Pulse.dmg`.
